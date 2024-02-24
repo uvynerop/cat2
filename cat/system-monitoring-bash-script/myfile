@@ -3,3 +3,5 @@ echo "myfile created by uvyne"
 echo "descriptions and modification date found"
 ls
 pwd
+vmstat
+rf
